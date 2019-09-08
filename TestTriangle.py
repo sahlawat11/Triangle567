@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Updated Jan 21, 2018
-The primary goal of this file is to demonstrate a simple unittest implementation
+Updated Sept 8, 2019
+The primary goal of this file is to test the valid triangles in Triangle.py
 
-@author: jrr
-@author: rk
+@author: Saransh Ahlawat
 """
 
 import unittest

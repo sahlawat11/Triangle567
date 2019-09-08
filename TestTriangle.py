@@ -74,7 +74,7 @@ class TestTriangles(unittest.TestCase):
         self.assertEqual(classifyTriangle(3,5,20), 'NotATriangle', '3,5,20 should not be a triangle')
     
     def testNotATriangleC(self):
-        self.assertEqual(classifyTriangle(20,3,4), 'NotATriangle', '20,3,4 should not be a triangle')
+        self.assertEqual(classifyTriangle(20,3,4), 'NotATringle', '20,3,4 should not be a triangle')
 
 if __name__ == '__main__':
     print('Running unit tests')
